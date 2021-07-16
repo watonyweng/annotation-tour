@@ -1,11 +1,11 @@
 # annotation-tour
 
-This project was generated with [Oracle Java](https://www.java.com) using [Apache Maven](http://maven.apache.org).
+This project was generated with [Java](https://www.java.com) using [Maven](http://maven.apache.org).
 
 ## Environment
 
-- Java
-- Git
+- [Java](https://www.java.com)
+- [Git](https://git-scm.com)
 
 ## Installation
 
